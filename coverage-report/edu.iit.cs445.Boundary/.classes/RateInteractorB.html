@@ -1,0 +1,72 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="htmlId">
+<head>
+  <title>Coverage Report :: RateInteractorB</title>
+  <style type="text/css">
+    @import "../../.css/coverage.css";
+  </style>
+</head>
+
+<body>
+<div class="header"></div>
+
+<div class="content">
+<div class="breadCrumbs">
+    [ <a href="../../index.html">all classes</a> ]
+    [ <a href="../index.html">edu.iit.cs445.Boundary</a> ]
+</div>
+
+<h1>Coverage Summary for Class: RateInteractorB (edu.iit.cs445.Boundary)</h1>
+
+<table class="coverageStats">
+<tr>
+  <th class="name">Class</th>
+</tr>
+<tr>
+  <td class="name">RateInteractorB</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<div class="sourceCode"><i>1</i>&nbsp;package edu.iit.cs445.Boundary;
+<i>2</i>&nbsp;
+<i>3</i>&nbsp;import edu.iit.cs445.Account.Rate;
+<i>4</i>&nbsp;
+<i>5</i>&nbsp;import java.util.Collection;
+<i>6</i>&nbsp;import java.util.List;
+<i>7</i>&nbsp;
+<i>8</i>&nbsp;public interface RateInteractorB {
+<i>9</i>&nbsp;
+<i>10</i>&nbsp;    int calculateDriverRating(String aid);
+<i>11</i>&nbsp;
+<i>12</i>&nbsp;    Double calculateAvgDriverRating(String aid);
+<i>13</i>&nbsp;
+<i>14</i>&nbsp;    List&lt;Rate&gt; getDriverComments(String aid);
+<i>15</i>&nbsp;
+<i>16</i>&nbsp;    String rateAccount(String aid, String rid, String sent_by_id, int rating, String comment);
+<i>17</i>&nbsp;
+<i>18</i>&nbsp;    List&lt;Rate&gt; getRiderComments(String aid);
+<i>19</i>&nbsp;
+<i>20</i>&nbsp;    Double calculateAvgRiderRating(String aid);
+<i>21</i>&nbsp;
+<i>22</i>&nbsp;    List&lt;Rate&gt; viewRateRider();
+<i>23</i>&nbsp;
+<i>24</i>&nbsp;    List&lt;Rate&gt; viewRateDriver();
+<i>25</i>&nbsp;}
+</div>
+</div>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2020-04-26 15:04</div>
+</div>
+</body>
+</html>

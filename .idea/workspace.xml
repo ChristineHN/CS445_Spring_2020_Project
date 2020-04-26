@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06221665-79c7-4a55-9cc1-51be6a943a9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="210" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/coverage-report/" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZxoZob1gkvxLN3PnFmNHyElg3a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.iit.cs445.Interactor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.edu.iit.cs445 in sharearide">
+    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="sharearide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.iit.cs445.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.iit.cs445" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.cs445.AccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sharearide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.iit.cs445.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.iit.cs445" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.cs445.MessageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sharearide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.iit.cs445.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.iit.cs445" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.cs445.RateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sharearide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.iit.cs445.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.iit.cs445" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.cs445.RequestTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestTest.createRequest_creates_request" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sharearide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.iit.cs445.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.iit.cs445" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.cs445.RequestTest" />
+      <option name="METHOD_NAME" value="createRequest_creates_request" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.iit.cs445 in sharearide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sharearide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.iit.cs445.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.iit.cs445" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.edu.iit.cs445 in sharearide" />
+        <item itemvalue="JUnit.MessageTest" />
+        <item itemvalue="JUnit.RateTest" />
+        <item itemvalue="JUnit.RequestTest" />
+        <item itemvalue="JUnit.RequestTest.createRequest_creates_request" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06221665-79c7-4a55-9cc1-51be6a943a9f" name="Default Changelist" comment="" />
+      <created>1585790164437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585790164437</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587698882718">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="549" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587698882718" />
+    <state x="549" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.956@0.23.1680.956" timestamp="1587004304739" />
+    <state x="362" y="114" width="1349" height="756" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587875079436">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="362" y="114" width="1349" height="756" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1680.956@0.23.1680.956" timestamp="1587875079436" />
+    <state x="934" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1587353201739">
+      <screen x="0" y="23" width="1680" height="955" />
+    </state>
+    <state x="934" y="221" key="#com.intellij.ide.util.MemberChooser/-1080.23.1080.740/0.23.1680.1027@0.23.1680.1027" timestamp="1587006053559" />
+    <state x="934" y="207" key="#com.intellij.ide.util.MemberChooser/-1080.23.1080.787/0.23.1680.956@0.23.1680.956" timestamp="1587011495161" />
+    <state x="934" y="202" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1585874302800" />
+    <state x="934" y="207" key="#com.intellij.ide.util.MemberChooser/0.23.1680.955@0.23.1680.955" timestamp="1587353201739" />
+    <state x="934" y="207" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1586837195081" />
+    <state x="934" y="207" key="#com.intellij.ide.util.MemberChooser/0.23.1680.958@0.23.1680.958" timestamp="1585791711657" />
+    <state x="798" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586832118145">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="798" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.956@0.23.1680.956" timestamp="1586832118145" />
+    <state x="853" y="369" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587931072660">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="853" y="380" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.48.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1587930840389" />
+    <state x="853" y="369" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.71.1920.1057/0.23.1680.956@0.23.1680.956" timestamp="1587931072660" />
+    <state width="1507" height="212" key="GridCell.Tab.0.bottom" timestamp="1587929964430">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1507" height="212" key="GridCell.Tab.0.bottom/-1920.48.1920.1080/0.0.1680.1050@-1920.48.1920.1080" timestamp="1587929820882" />
+    <state width="1507" height="212" key="GridCell.Tab.0.bottom/-1920.48.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1587929964430" />
+    <state width="1507" height="212" key="GridCell.Tab.0.bottom/-1920.71.1920.1057/0.23.1680.956@-1920.71.1920.1057" timestamp="1587879809569" />
+    <state width="1638" height="219" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587879121830" />
+    <state width="1507" height="219" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1587876621716" />
+    <state width="1507" height="212" key="GridCell.Tab.0.center" timestamp="1587929964428">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1507" height="212" key="GridCell.Tab.0.center/-1920.48.1920.1080/0.0.1680.1050@-1920.48.1920.1080" timestamp="1587929820878" />
+    <state width="1507" height="212" key="GridCell.Tab.0.center/-1920.48.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1587929964428" />
+    <state width="1507" height="212" key="GridCell.Tab.0.center/-1920.71.1920.1057/0.23.1680.956@-1920.71.1920.1057" timestamp="1587879809567" />
+    <state width="1638" height="219" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587879121828" />
+    <state width="1507" height="219" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1587876621714" />
+    <state width="1507" height="212" key="GridCell.Tab.0.left" timestamp="1587929964427">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1507" height="212" key="GridCell.Tab.0.left/-1920.48.1920.1080/0.0.1680.1050@-1920.48.1920.1080" timestamp="1587929820877" />
+    <state width="1507" height="212" key="GridCell.Tab.0.left/-1920.48.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1587929964427" />
+    <state width="1507" height="212" key="GridCell.Tab.0.left/-1920.71.1920.1057/0.23.1680.956@-1920.71.1920.1057" timestamp="1587879809566" />
+    <state width="1638" height="219" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587879121826" />
+    <state width="1507" height="219" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1587876621713" />
+    <state width="1507" height="212" key="GridCell.Tab.0.right" timestamp="1587929964429">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1507" height="212" key="GridCell.Tab.0.right/-1920.48.1920.1080/0.0.1680.1050@-1920.48.1920.1080" timestamp="1587929820880" />
+    <state width="1507" height="212" key="GridCell.Tab.0.right/-1920.48.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1587929964429" />
+    <state width="1507" height="212" key="GridCell.Tab.0.right/-1920.71.1920.1057/0.23.1680.956@-1920.71.1920.1057" timestamp="1587879809568" />
+    <state width="1638" height="219" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587879121829" />
+    <state width="1507" height="219" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1587876621715" />
+    <state width="1507" height="317" key="GridCell.Tab.1.bottom" timestamp="1587929144482">
+      <screen x="-1920" y="48" width="1920" height="1080" />
+    </state>
+    <state width="1507" height="317" key="GridCell.Tab.1.bottom/-1920.48.1920.1080/0.0.1680.1050@-1920.48.1920.1080" timestamp="1587929144482" />
+    <state width="1507" height="317" key="GridCell.Tab.1.center" timestamp="1587929144478">
+      <screen x="-1920" y="48" width="1920" height="1080" />
+    </state>
+    <state width="1507" height="317" key="GridCell.Tab.1.center/-1920.48.1920.1080/0.0.1680.1050@-1920.48.1920.1080" timestamp="1587929144478" />
+    <state width="1507" height="317" key="GridCell.Tab.1.left" timestamp="1587929144474">
+      <screen x="-1920" y="48" width="1920" height="1080" />
+    </state>
+    <state width="1507" height="317" key="GridCell.Tab.1.left/-1920.48.1920.1080/0.0.1680.1050@-1920.48.1920.1080" timestamp="1587929144474" />
+    <state width="1507" height="317" key="GridCell.Tab.1.right" timestamp="1587929144480">
+      <screen x="-1920" y="48" width="1920" height="1080" />
+    </state>
+    <state width="1507" height="317" key="GridCell.Tab.1.right/-1920.48.1920.1080/0.0.1680.1050@-1920.48.1920.1080" timestamp="1587929144480" />
+    <state x="500" y="163" key="Maven.ArtifactSearchDialog" timestamp="1585793702650">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="500" y="163" key="Maven.ArtifactSearchDialog/0.23.1680.956@0.23.1680.956" timestamp="1585793702650" />
+    <state x="328" y="82" key="SettingsEditor" timestamp="1586827330184">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="328" y="82" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1586827330184" />
+    <state x="544" y="401" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585793500325">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="544" y="401" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1680.956@0.23.1680.956" timestamp="1585793500325" />
+    <state x="421" y="56" width="1138" height="859" key="dock-window-1" timestamp="1587879576441">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="421" y="56" width="1138" height="859" key="dock-window-1/-1920.71.1920.1057/0.23.1680.956@-1920.71.1920.1057" timestamp="1587879576441" />
+    <state x="773" y="32" width="748" height="821" key="dock-window-2" timestamp="1587930075404">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="846" y="0" width="834" height="1050" key="dock-window-2/-1920.71.1920.1057/0.23.1680.956@-1920.71.1920.1057" timestamp="1587928524389" />
+    <state x="773" y="32" width="748" height="821" key="dock-window-2/-1920.71.1920.1057/0.23.1680.956@0.23.1680.956" timestamp="1587930075404" />
+    <state x="165" y="32" width="607" height="821" key="dock-window-3" timestamp="1587930075406">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="0" y="0" width="834" height="1050" key="dock-window-3/-1920.71.1920.1057/0.23.1680.956@-1920.71.1920.1057" timestamp="1587928524391" />
+    <state x="165" y="32" width="607" height="821" key="dock-window-3/-1920.71.1920.1057/0.23.1680.956@0.23.1680.956" timestamp="1587930075406" />
+    <state x="786" y="248" key="run.anything.popup" timestamp="1587697887790">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="786" y="248" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1587697887790" />
+    <state x="432" y="240" width="670" height="630" key="search.everywhere.popup" timestamp="1587691910416">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="432" y="256" width="670" height="676" key="search.everywhere.popup/-1080.23.1080.740/0.23.1680.1027@0.23.1680.1027" timestamp="1587006071703" />
+    <state x="432" y="240" width="670" height="629" key="search.everywhere.popup/0.23.1680.955@0.23.1680.955" timestamp="1587352552192" />
+    <state x="432" y="240" width="670" height="630" key="search.everywhere.popup/0.23.1680.956@0.23.1680.956" timestamp="1587691910416" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sharearide$edu_iit_cs445_in_sharearide.ic" NAME="edu.iit.cs445 in sharearide Coverage Results" MODIFIED="1587929864965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.iit.cs445.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/sharearide$AccountTest.ic" NAME="AccountTest Coverage Results" MODIFIED="1587875119764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.iit.cs445.*</FILTER>
+    </SUITE>
+  </component>
+</project>
